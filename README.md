@@ -1,1 +1,2 @@
 # SimpleReactCalculate
+IT STEP homework 
